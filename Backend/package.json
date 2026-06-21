@@ -13,11 +13,17 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.3",
+=======
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+>>>>>>> f8443c3f6bff49f2e96d082b42bd033978369ff3
     "mongoose": "^8.18.0",
     "validator": "^13.15.15"
   }
