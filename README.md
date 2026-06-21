@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task Management
 
 TaskFlow is a professional, secure, full-stack task management application. It features a Node.js/Express REST API backend with secure JWT authentication and MongoDB storage, coupled with a responsive, glassmorphic React dashboard styled with Tailwind CSS.
