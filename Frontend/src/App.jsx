@@ -511,7 +511,7 @@ function App() {
                       required
                       value={Todo}
                       onChange={(e) => setTodo(e.target.value)}
-                      placeholder="e.g. Finish landing page"
+                      placeholder="e.g. Finish the project report"
                       className="w-full bg-slate-950 border border-slate-800 focus:border-indigo-500 rounded-xl py-3 px-4 text-slate-200 placeholder-slate-600 focus:outline-none focus:ring-1 focus:ring-indigo-500 transition-all text-sm"
                     />
                   </div>
@@ -522,7 +522,7 @@ function App() {
                     <textarea
                       value={description}
                       onChange={(e) => setDescription(e.target.value)}
-                      placeholder="e.g. Work on hero layout and CSS responsiveness..."
+                      placeholder="e.g. This task involves..."
                       rows="3"
                       className="w-full bg-slate-950 border border-slate-800 focus:border-indigo-500 rounded-xl py-3 px-4 text-slate-200 placeholder-slate-600 focus:outline-none focus:ring-1 focus:ring-indigo-500 transition-all text-sm resize-none"
                     ></textarea>
