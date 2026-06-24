@@ -21,7 +21,7 @@ import {
 import { MdDelete } from "react-icons/md";
 import toast, { Toaster } from "react-hot-toast";
 
-const API_BASE = import.meta.env.VITE_API_URL + '/api'
+const API_BASE = import.meta.env.VITE_API_URL 
 
 function App() {
   // Authentication State
